@@ -21,15 +21,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/danielsantosgoncalves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielsantosgoncalves/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Minhas tecnologias: </h3>
-<p align="left">  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
-<img src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" alt="c#" width="40" height="40"/> </a>
-  
- 
-
