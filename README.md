@@ -4,8 +4,9 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+- 🎓 Formado em **Sistemas de Informação** e **Pós Graduado em Ciência de Dados e Big Data**
 
-- 🔭 Atualmente trabalho com **Python, Flask e FastAPI**
+- 🔭 Atualmente trabalho com **Python, Flask, AWS**
 
 - 👯 Gostaria de colaborar com projetos em **Python, C#, ReactJs, VueJs, AngularJs e Power BI**
 
