@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente trabalho com **Python, Flask e FastAPI**
 
-- 👯 Gostaria de colaborar com projetos em **Python, C#, React Js, Vue Js, Power BI**
+- 👯 Gostaria de colaborar com projetos em **Python, C#, ReactJs, VueJs, AngularJs e Power BI**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis na guia **repositórios**
 
@@ -26,5 +26,10 @@
 <p align="left">  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
+<img src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" alt="c#" width="40" height="40"/> </a>
+  
+ 
 
