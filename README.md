@@ -6,7 +6,7 @@
 
 - 🎓 Formado em **Sistemas de Informação** e **Pós Graduado em Ciência de Dados e Big Data**
 
-- 🔭 Atualmente trabalho com **Python, Flask, AWS**
+- 🔭 Atualmente trabalho com **Python, Flask, FastAPI e AWS**
 
 - 👯 Gostaria de colaborar com projetos em **Python, C#, ReactJs, VueJs, AngularJs e Power BI**
 
